@@ -3,3 +3,4 @@
 Used CSV Files as Dataset for Data of Esport Players with their Country,Earning,Etc.
 Imported into Power Bi Tool for Data Visualization.
 Visual Static Dashboard Prepared in format of PDF/PPT.
+Dashboard Required Official organisation id which i dont have currently. So cant represent Dashboard here.
